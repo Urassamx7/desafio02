@@ -14,14 +14,14 @@
 
 }
 body{
-    padding-top: 115px;
+    padding: 115px;
     background-color: var(--cor2);
 }
 main{
 
-
-    max-width: 150px;
-    min-width: 260px;
+    
+    max-width: 200px;
+    min-width: 150px;
     margin: auto;
     padding-left: 10px;
     padding-right: 10px;
