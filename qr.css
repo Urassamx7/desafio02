@@ -14,12 +14,13 @@
 
 }
 body{
-    padding-top: 115px;
+    width: 100vw;
     background-color: var(--cor2);
+    height: 100vh;
 }
 main{
 
-    
+    display: block;
     max-width: 200px;
     min-width: 150px;
     margin: auto;
