@@ -56,15 +56,16 @@ border-radius: 7px;
 border-radius: 7px;
 }
 
+h1{
+    padding-top: 20px;
+    font-family: 'Instrument Serif', serif;
+    text-align: center;
+    font-size: 1.5em;
+}
 h2{
     padding-top: 20px;
     font-family: 'Instrument Serif', serif;
     text-align: center;
-}
-p{
-    padding-top: 10px;
-    font-family: 'Instrument Serif', serif;
-    text-align: center;
-    font-size: 15px;
+    font-size: 1em;
     font-weight: 400;
 }
